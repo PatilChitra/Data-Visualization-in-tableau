@@ -17,4 +17,4 @@ The analysis and visualization were performed using Tableau, a powerful data vis
 5. **Dashboard 5**: Summary
 
 ## Usage
-To access the Tableau story and interactive dashboards, follow this link to public tableau: https://public.tableau.com/app/profile/chitra.patil/viz/
+To access the Tableau story and interactive dashboards, follow this link to public tableau: (https://public.tableau.com/app/profile/chitra.patil/viz/)
